@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
 </div>
 
 ###
@@ -10,11 +10,11 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up ...</h1>
+<h1 align="left">Hey 👋 Everyone </h1>
 
 ###
 
-<h4 align="left">My name is Akash Kumar and I'm a FrontEnd / BackEnd Developer from Pune,Maharastra.</h4>
+<h4 align="left">I am Akash Kumar an Aspiring Software Developer.</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">I code with ..</h2>
+<h2 align="left">Languages and Tools :</h2>
 
 ###
 
@@ -62,8 +62,26 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash04-creator&theme=transparent&ring=BB86FC&fire=BB86FC" />
 </div>
 
-<div><img src="https://raw.githubusercontent.com/aakash04-creator/aakash04-creator/languages-output/languages.svg" height="150" alt="languages graph"  />
+<!-- <div><img src="https://raw.githubusercontent.com/aakash04-creator/aakash04-creator/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div> -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash04-creator&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" /></p>
+
+<br><br><br><br><br><br><br><br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aakash04-creator&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>  -->
+
+<!--Cards-->
+<h2 align="left">📈 language Stats</h2>
+ <br><div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakash04-creator&theme=aura" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakash04-creator&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakash04-creator&theme=aura" alt="GitHub Stats" width="45%" />
+</div>
+
+<br>
 
 <h2 align="left">🌐 Connect With Me</h2>
 
