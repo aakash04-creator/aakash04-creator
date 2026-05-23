@@ -58,8 +58,8 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aakash04-creator/aakash04-creator/stats-output/stats.svg" height="150" alt="stats graph"  />
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aakash04-creator&show_icons=true&theme=transparent&title_color=BB86FC&icon_color=BB86FC" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash04-creator&theme=transparent&ring=BB86FC&fire=BB86FC" />
 </div>
 
 <div><img src="https://raw.githubusercontent.com/aakash04-creator/aakash04-creator/languages-output/languages.svg" height="150" alt="languages graph"  />
