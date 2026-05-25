@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=200&section=header&text=aakash04-creator&fontSize=40&fontColor=F5C518&animation=fadeIn&fontAlignY=38&desc=Aakash%20Kumar&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=302b63&height=200&text=aakash04-creator&fontSize=40&fontColor=F5C518&animation=fadeIn&desc=Aakash%20Kumar&descAlignY=70&descAlign=50" width="100%"/>
 
 ###
 
